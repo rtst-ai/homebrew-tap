@@ -1,8 +1,8 @@
 class Rtst < Formula
   desc "Command-line client for the rtst AI image and video generation API"
   homepage "https://github.com/rtst-ai/cli"
-  url "https://registry.npmjs.org/@rtst-ai/cli/-/cli-0.1.1.tgz"
-  sha256 "c85657dbee1ad1c5bd58f50946f3faea4be9444125d83ed64d099fad1c7e00b8"
+  url "https://registry.npmjs.org/@rtst-ai/cli/-/cli-0.2.0.tgz"
+  sha256 "75156d4532274397376cb0762d76a92877d35f171b7b102000cca2442a4a786f"
   license "MIT"
 
   depends_on "node"
